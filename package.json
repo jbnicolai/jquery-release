@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "colors": "0.6.2",
-    "shelljs": "0.2.6",
-    "github-request": "1.1.0"
+    "github-request": "1.2.1",
+    "shelljs": "0.2.6"
   },
   "devDependencies": {
     "grunt": "0.4.1",
